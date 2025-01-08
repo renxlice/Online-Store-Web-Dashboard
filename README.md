@@ -1,4 +1,4 @@
-# Online-Store-Web-Dashboard
+# Online Store Web Dashboard
 
 Designed and developed a comprehensive, user-friendly, and modern web dashboard for an online store. This platform offers a seamless shopping experience and robust tools for efficient store management. Key features include:
 
